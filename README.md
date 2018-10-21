@@ -11,6 +11,6 @@ git clone https://github.com/hogehoge0604/docker-ocr.git
 ```bash
 ./execute.sh ocr_from_pdf_filename ocr_to_filename
 ```
-It takes a lot of time to build Dockerfile for the first run.
+It takes a lot of time to build Dockerfile for the first run.  
 Upon successful completion, the converted PDF is stored in the "file" folder.
 
